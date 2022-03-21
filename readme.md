@@ -1,6 +1,8 @@
 Welcome! I am hosting my activators for Office / Windows here.
 
 
+### To activate basically, there are .bat or .cmd files that you can run on your windows machine, that does it automatically for you.
+### We have backup domains, and servers just in case the other one goes down.
 
 
 
