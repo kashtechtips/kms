@@ -25,3 +25,10 @@ Welcome! I am hosting my activators for Office / Windows here.
 Already have the KMS Key and just want the server name?
 This part is for experts only.
 You can access our server at k1.4kash.org k2.codelazy.org k3.linux4kash.com or k3beta.linux4kash.com which you can try out, but it might not work.
+
+
+
+
+
+# Domains that are still up! 
+### the domains except k3beta.linux4kash.com are up. We are currently fixing the outage.
